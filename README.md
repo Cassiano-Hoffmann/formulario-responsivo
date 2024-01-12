@@ -3,7 +3,8 @@
 Este repositório contém um exemplo simples de um formulário responsivo desenvolvido utilizando HTML5 e CSS3. O formulário é projetado para ser compatível com uma variedade de dispositivos, proporcionando uma experiência de usuário consistente em diferentes tamanhos de tela.
 
 # Demonstração
-
+![Formulario-responsivo-1](https://github.com/Cassiano-Hoffmann/formulario-responsivo/assets/117099774/c9050e7f-5d17-4361-bd4e-1d232108e3da)
+![formulario-responsivo-2](https://github.com/Cassiano-Hoffmann/formulario-responsivo/assets/117099774/4c2e52d4-c591-4c9c-bb41-b5587dccc17e)
 
 # Características
 Responsivo: O formulário se adapta automaticamente a diferentes tamanhos de tela, desde dispositivos móveis até desktops.
